@@ -1,7 +1,7 @@
 ### Olá, eu sou a Angélica Pedroso! 😄
 <div>
   <a href="https://github.com/angelicapedroso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicapedroso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
