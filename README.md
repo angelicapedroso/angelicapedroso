@@ -1,4 +1,9 @@
-### Olá, eu sou a Angélica Pedroso! 😄
+### Olá! 😄
+- Eu sou a Angélica, tenho 22 anos e moro em Minas Gerais, Brasil.
+- Sou estudante de Desenvolvimento Web Full Stack na Trybe.
+- Adoro estudar sobre tecnologia e estou em constante aprendizado.
+- No tempo livre gosto de assistir filmes e séries e estar com a família.
+
 <div>
   <a href="https://github.com/angelicapedroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
