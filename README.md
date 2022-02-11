@@ -2,8 +2,6 @@
 - 🙆‍♀️ Eu sou a Angélica, tenho 22 anos e moro em Minas Gerais, Brasil.
 - 👩‍💻 Sou estudante de Desenvolvimento Web Full Stack na Trybe.
 - 📚 Adoro estudar sobre tecnologia e estou em constante aprendizado.
-- ☕ No meu dia a dia não pode faltar aquele café para codar.
-- ⏳ No tempo livre gosto de assistir filmes e séries e estar com a família.
 
 <div>
   <a href="https://github.com/angelicapedroso">
