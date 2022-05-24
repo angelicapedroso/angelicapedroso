@@ -1,9 +1,9 @@
-### Olá! 😄
-- 🙆‍♀️ Eu sou a Angélica, tenho 22 anos e moro em Minas Gerais, Brasil.
-- 👩‍💻 Sou estudante de Desenvolvimento Web Full Stack na Trybe.
-- 📚 Adoro estudar sobre tecnologia e estou em constante aprendizado.
+<div >
+  <h1 align="center"> Olá, eu sou a Angélica 🙆‍♀️</h1>
+  <h3> - Estudante de Desenvolvimento Web Full Stack na Trybe</h3>
+</div>
 
-<div>
+<div align="center" >
   <a href="https://github.com/angelicapedroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicapedroso&layout=compact&langs_count=7&theme=dracula"/>
