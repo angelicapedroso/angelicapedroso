@@ -1,6 +1,5 @@
 <div >
   <h1 align="center"> Olá, eu sou a Angélica 🙆‍♀️</h1>
-  <h3> - Estudante de Desenvolvimento Web Full Stack na Trybe</h3>
 </div>
 
 <div align="center" >
