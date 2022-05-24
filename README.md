@@ -6,7 +6,7 @@
     <li>📚 Agora, meus estudos estão focados em <strong>Docker, Node e Banco de Dados</strong></li>
     <li>❤ Sou apaixonada por filmes, séries, música, praia, bichinhos e codar 😄</li>
     <li>💭 Uma frase que me define no momento, é: <strong>"O segredo do sucesso é a constância do propósito."
-</strong>Benjamin Disraeli</li>
+</strong></li>
   </ul>
 </div>
 <br></br>
