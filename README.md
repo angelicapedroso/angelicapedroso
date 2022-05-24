@@ -5,9 +5,7 @@
     <li>👩‍💻 Sou estudante de Desenvolvimento Web Full-Stack na Trybe</li>
     <li>📚 Agora, meus estudos estão focados em <strong>Docker, Node e Banco de Dados</strong></li>
     <li>❤ Sou apaixonada por filmes, séries, música, praia, bichinhos e codar 😄</li>
-    <li>💫 Adoro aprender coisas novas e estar em constante aprendizado</li>
-    <li>💭 Uma frase que me define no momento, é: <strong>"O segredo do sucesso é a constância do propósito."
-</strong></li>
+    <li>💫 Adoro aprender coisas novas e estar em constante aprendizado</li></strong></li>
   </ul>
 </div>
 <br></br>
