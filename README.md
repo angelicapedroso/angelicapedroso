@@ -10,22 +10,11 @@
 </div>
 <br></br>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/angelicapedroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicapedroso&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-  
-  <div align="center">
-  <a href="https://github.com/angelicapedroso">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/angelicapedroso">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicapedroso&hide=css&langs_count=8&theme=nord&layout=compact" />
-  </a>
 </div>
-  
-  
 <br></br>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
