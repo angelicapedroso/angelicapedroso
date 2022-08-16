@@ -1,10 +1,8 @@
 <div>
-  <h1 align="center"> Hi, I'm Angélica ✨</h1>
+  <h1 align="center"> Oi, eu sou a Angélica! ✨</h1>
   <br></br>
   <ul>
-    <li>👩‍💻 Full-Stack Web Development student at Trybe</li>
-    <li>📚 Now, my studies are focused on <strong>Docker, Node and Database</strong></li>
-    <li>❤ I love to learn new things and be in constant learning </li>
+    <li>👩‍💻 Sou desenvolvedora web e estudante na Trybe</li>
   </ul>
 </div>
 <br></br>
