@@ -1,6 +1,5 @@
 <div>
   <h1 align="center"> Oi, eu sou a Angélica! ✨</h1>
-  <br></br>
 </div>
 <br></br>
 
