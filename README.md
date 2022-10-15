@@ -1,8 +1,3 @@
-<div>
-  <h1 align="center"> Oi, eu sou a Angélica! ✨</h1>
-</div>
-<br></br>
-
 <div align="center">
   <a href="https://github.com/angelicapedroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelicapedroso&show_icons=true&theme=dracula"/>
