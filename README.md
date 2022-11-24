@@ -1,18 +1,29 @@
-  # ✨ Olá, seja muito bem-vindo(a) ao meu perfil!
+   <div align="center">
+     <h1>✨ Olá, eu sou a Angélica! ✨</h1>
+     <h2>Seja muito bem-vindo(a) ao meu perfil!</h2>
+   </div>
 
   </br>
-
-  🙋‍♀️ Meu nome é Angélica Pedroso, tenho 23 anos, moro no interior de Minas Gerais e sou estudante de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/). Sou curiosa e adoro aprender coisas novas, o que me levou a conhecer a área de tecnologia, e hoje sou apaixonada por ela.
-
-  </br>
   </br>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="350px" src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif"      alt="gata-codando" style="vertical-align:top;">
-    </a>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
+
+ <ul>
+    <li>🙋‍♀️ Tenho 23 anos, sou do interior de Minas</li>
+    <li>👩‍💻 Estudante de Desenvolvimento de Software na Trybe</li>
+    <li>🔎 Sou uma pessoa curiosa, que gosta de aprender coisas novas</li>
+    <li>📽 Sou apaixonada por filmes e séries</li>
+    <li>🌞 Amo praia, natureza e dias ensolarados</li>
+ </ul>
+
+  <div>
+    <img width="300px" src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif"      alt="gata-codando">
   </div>
+</div>
 
+  </br>
+  </br>
+  </br>
   </br>
   </br>
 
