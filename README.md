@@ -10,7 +10,7 @@
     <li>🙋‍♀️ Tenho 23 anos, sou do interior de Minas</li>
     <li>👩‍💻 Estudante de Desenvolvimento de Software na Trybe</li>
     <li>🔎 Sou uma pessoa curiosa, que gosta de aprender coisas novas</li>
-    <li>📽 Sou apaixonada por filmes e séries</li>
+    <li>📽 Apaixonada por filmes e séries</li>
     <li>🌞 Amo praia, natureza e dias ensolarados</li>
  </ul>
 
