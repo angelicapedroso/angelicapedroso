@@ -21,8 +21,6 @@
   </br>
   </br>
   </br>
-  </br>
-  </br>
 
   ## 💻 Tecnologias e ferramentas
 
@@ -38,12 +36,14 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
     <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" />
     <img src="https://img.shields.io/badge/Sinon-111111?style=for-the-badge&logo=sinon&logoColor=white" alt="Sinon" />
+    </br>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -68,9 +68,7 @@
   </br>
 
   ### Fique à vontade para entrar em contato comigo através do meu LinkedIn ou do meu Email! 😊
-
   </br>
-
   <div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 6em;">
     <a style="margin-right:10px" href="https://www.linkedin.com/in/angelicapedroso/">
     <img align="left" width="60px" src="https://i.pinimg.com/564x/d1/0f/6f/d10f6f9adab460ace06fb3c2e54bdcf2.jpg" alt="LinkedIn">
