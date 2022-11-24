@@ -6,8 +6,6 @@
   </br>
   </br>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
-
  <ul>
     <li>🙋‍♀️ Tenho 23 anos, sou do interior de Minas</li>
     <li>👩‍💻 Estudante de Desenvolvimento de Software na Trybe</li>
@@ -16,10 +14,9 @@
     <li>🌞 Amo praia, natureza e dias ensolarados</li>
  </ul>
 
-  <div>
-    <img width="300px" src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif"      alt="gata-codando">
+  <div align="right">
+    <img align="right" width="300px" src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif" alt="gata-codando">
   </div>
-</div>
 
   </br>
   </br>
@@ -31,7 +28,7 @@
 
   </br>
 
-  <div align="center">
+  <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -76,9 +73,9 @@
 
   <div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 6em;">
     <a style="margin-right:10px" href="https://www.linkedin.com/in/angelicapedroso/">
-    <img align="left" width="50px" src="https://i.pinimg.com/564x/d1/0f/6f/d10f6f9adab460ace06fb3c2e54bdcf2.jpg" alt="LinkedIn">
+    <img align="left" width="60px" src="https://i.pinimg.com/564x/d1/0f/6f/d10f6f9adab460ace06fb3c2e54bdcf2.jpg" alt="LinkedIn">
   </a>
 <a href="mailto:contatoangelicapedroso@gmail.com">
-    <img align="left" width="50px" src="https://i.pinimg.com/564x/b6/c0/f4/b6c0f431e46989e768f37b5c559500bc.jpg" alt="E-mail">
+    <img align="left" width="60px" src="https://i.pinimg.com/564x/b6/c0/f4/b6c0f431e46989e768f37b5c559500bc.jpg" alt="E-mail">
   </a>
     </div>
