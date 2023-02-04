@@ -1,21 +1,13 @@
    <div align="center">
-     <h1>✨ Olá, eu sou a Angélica! ✨</h1>
-     <h2>Seja muito bem-vindo(a) ao meu perfil!</h2>
+     <h1>Olá, eu sou a Angélica! ✨</h1>
+     <h2>Seja muito bem-vindx ao meu perfil!</h2>
    </div>
 
   </br>
   </br>
 
-  <div align="right">
-    <img align="right" width="300px" src="https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif" alt="gata-codando">
-  </div>
-
  <ul>
-    <li>🙋‍♀️ Tenho 23 anos, sou do interior de Minas</li>
-    <li>👩‍💻 Estudante de Desenvolvimento de Software na Trybe</li>
-    <li>🔎 Sou uma pessoa curiosa, que gosta de aprender coisas novas</li>
-    <li>📽 Apaixonada por filmes e séries</li>
-    <li>🌞 Amo praia, natureza e dias ensolarados</li>
+    
  </ul>
 
   </br>
