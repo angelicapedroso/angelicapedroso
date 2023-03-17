@@ -1,18 +1,3 @@
-   <div align="center">
-     <h1>Olá, eu sou a Angélica! ✨</h1>
-     <h2>Seja muito bem-vindx ao meu perfil!</h2>
-   </div>
-
-  </br>
-  </br>
-
- <ul>
-    
- </ul>
-
-  </br>
-  </br>
-  </br>
 
   <div>
     <h2>Front-end</h2>
